@@ -1287,6 +1287,11 @@ p {
   align-self: flex-end;
 }
 
+.testimonial__heading {
+  text-align: center;
+  padding: 0.5rem 0;
+}
+
 @media screen and (max-width: 991px) {
   .hero__grid-wrapper {
     grid-column-gap: 25px;
